@@ -1,7 +1,7 @@
 import './Slum.scss';
 import useAnim from './hooks/useAnim';
 
-
+// DATA
 const Discography = [
   {
     id: 0,
@@ -85,6 +85,7 @@ const Socials = [
   },
 ];
 
+// APP
 function Slum() {
   useAnim('fade');
   useAnim('slide');
