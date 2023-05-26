@@ -1,4 +1,4 @@
-![SHlum](https://slum.broccolirecords.com/images/logo.png)
+![SHlum](https://slum.broccolirecords.com/images/demon.gif)
 
 # Getting Started with Create React App
 
@@ -21,6 +21,6 @@ Builds the app for production to the `build` folder.\
 
 **Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-```
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
-```
+
