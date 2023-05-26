@@ -1,6 +1,6 @@
 ![SHlum](https://slum.broccolirecords.com/images/demon.gif)
 
-# Getting Started with Create React App
+## SHlum's Music portfolio made usin React and Sass
 
 ## Available Scripts
 
