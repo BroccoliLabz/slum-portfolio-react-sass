@@ -2,6 +2,8 @@
 
 # SHlum's Music portfolio made with React and Sass
 
+Check out the running demo at [slum.broccolirecords.com](https://slum.broccolirecords.com)
+
 ## Installation
 
 ### `npm install`
