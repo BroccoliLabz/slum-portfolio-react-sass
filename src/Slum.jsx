@@ -1,6 +1,7 @@
 import './Slum.scss';
 import useAnim from './hooks/useAnim';
 
+
 const Discography = [
   {
     id: 0,
