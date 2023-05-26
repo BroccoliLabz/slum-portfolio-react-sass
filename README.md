@@ -1,6 +1,6 @@
 ![SHlum](https://slum.broccolirecords.com/images/demon.gif)
 
-### SHlum's Music portfolio made with React and Sass
+# SHlum's Music portfolio made with React and Sass
 
 ## Installation
 
